@@ -1,4 +1,4 @@
-#### This pre-master file showcases the code languages I self-learned and the project I used for my master's degree application
+#### This Pre-master file showcases the code languages I self-learned and the project I used for my master's degree application
 
 1. The file "R" contains various statistical methods.
 2. The file "Python" contains various statistical methods and also various data preprocessing, machine learning and deep learning methods.
